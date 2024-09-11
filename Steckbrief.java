@@ -21,7 +21,7 @@ public class Steckbrief {
     wohnort = sc.next();
     }
     public void ausgabe(){
-        System.out.println(name + " ist " + alter + " alt und wohn in " + wohnort + " in der " + straße +" "+ hausnummer);
+        System.out.println(name + " ist " + alter + " alt und wohn in " + wohnort + " in der " + straße + " " + hausnummer);
     }
     public static void main(String[]args){  // ╰‿╯
         Steckbrief t1;
