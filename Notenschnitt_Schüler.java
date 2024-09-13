@@ -10,7 +10,7 @@ public class Notenschnitt_Schüler {
         int anzahl = 6;
         double notenschnitt;
 
-        notenschnitt = (klausur1*2.0 + klausur2*2 + test1 + test2)/anzahl;
+        notenschnitt = (klausur1*2.0 + klausur2*2 + test1 + test2)/anzahl; //TypeCast
         System.out.println("1.Klausur:  " + klausur1);
         System.out.println("2.Klausur:  " + klausur2);
         System.out.println("1.Test: " + test1);
