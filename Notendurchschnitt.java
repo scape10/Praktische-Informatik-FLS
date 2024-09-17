@@ -60,7 +60,7 @@ public class Notenrechner {
               System.out.println("\t" + df1.format(durchschnitt));
               System.out.println("\n\t" + "Es haben " + df2.format(summeSchüler) + " Schüler an der Klausur teilgenommen.");
             }
-  public static void main(String[] args) {
+  public static void main(String[] args) {    //╰‿╯
     Notenrechner az1;
     az1 = new Notenrechner();
     
