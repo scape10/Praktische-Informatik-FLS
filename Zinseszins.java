@@ -29,7 +29,7 @@ public class Zinseszins{
     public void aussgabe(){
         System.out.println("Ihr kapital nach " + jahre + " Jahren beträgt "+ df1.format(kapital) + "Herzlichen Glückwunsch");
     }
-    public static void main(String[]args){
+    public static void main(String[]args){            //╰‿╯
         Zinseszins zz1;
         zz1 = new Zinseszins();
 
