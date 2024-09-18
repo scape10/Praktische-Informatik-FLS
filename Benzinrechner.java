@@ -40,7 +40,7 @@ public class BenzinRechner {
             public static void main(String[] args){
             
             BenzinRechner br1;              
-            br1 = new BenzinRechner();
+            br1 = new BenzinRechner();                //╰‿╯
            
             br1.eingabe();
             br1.verarbeitung();
