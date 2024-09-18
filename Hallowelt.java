@@ -7,7 +7,7 @@ public class Hallowelt {
     public static void main(String[]args){
         Hallowelt hw1;
 
-        hw1 = new Hallowelt();
+        hw1 = new Hallowelt();        //╰‿╯
         hw1.ausgabe();
     }
 }
