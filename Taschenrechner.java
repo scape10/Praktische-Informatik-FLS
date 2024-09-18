@@ -67,7 +67,7 @@ public static void main(String[]srg){
     az1 = new Taschenrechner();
 
     System.out.println("\t************************\n");
-    System.out.println("\tDaniel's Taschenrechner\n ");
+    System.out.println("\tDaniel's Taschenrechner\n ");            //╰‿╯
     System.out.println("\t************************\n");
 
     az1.eingabe();
