@@ -27,7 +27,7 @@ public class Prüfziffer {
     public void ausgabe(){
         System.out.println("Ihre prüf ziffer ist " + rest);
     }
-    public static void main(String[]args){
+    public static void main(String[]args){    //╰‿╯
         Prüfziffer pf;
         pf = new Prüfziffer();
         pf.eingabe();
