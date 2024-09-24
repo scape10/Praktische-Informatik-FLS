@@ -23,7 +23,7 @@ public class Flaschen_Kasten{
     public void ausgabe(){
         System.out.print("Sie haben " + flaschen + " Flaschen und ein Kasten kann " + kasten + " flaschen aufnehmen Es bleiben " + rest + " übrig");
     }
-    public static void main(String[]args){
+    public static void main(String[]args){    //╰‿╯
         Flaschen_Kasten fk;
         fk = new Flaschen_Kasten();
 
