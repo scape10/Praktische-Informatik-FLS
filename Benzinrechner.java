@@ -7,7 +7,7 @@ public class BenzinRechner {
     Scanner sc = new Scanner(System.in);
 
 
-    double kilometerLetzter;                //Da chille so die variablen
+    double kilometerLetzter;              
     double kilometerA;
     double tankmenge;
     double kilodif;
