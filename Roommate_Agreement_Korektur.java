@@ -40,7 +40,7 @@ public class Roommate_Agreement_Korektur {
                 verstöße++;
             }
         }
-        System.out.println("Verstöße insgesamt: " + verstöße);
+        System.out.println("Verstöße insgesamt: " + verstöße);                                                        //╰‿╯
     }
 
     public static void main(String[] args) {
